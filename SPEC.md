@@ -4,8 +4,9 @@ Account: @flowfinleads Instagram + Flowfinleads Facebook Page, posted through Go
 Audience: business owners and operators who buy leads (funding, legal, debt relief). Goal: teach real marketing lessons and build a following.
 
 ## Cadence
-- 3 posts a week: Wed, Fri, Mon, each at 09:00 America/New_York (convert to UTC for GHL; mind DST).
-- Each weekly batch = exactly 3 posts = one grid row.
+- One post every 2 days at 09:00 America/New_York (convert to UTC for GHL; mind DST).
+- Next post date = last post date in posts/log.md + 2 days.
+- Posts are created in batches of exactly 3 = one grid row. A new batch is created when the last logged post is 3 days away or less.
 
 ## Grid order (critical)
 - Middle column always green. Outer columns alternate by row.
