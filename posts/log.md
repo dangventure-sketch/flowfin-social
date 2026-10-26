@@ -9,3 +9,6 @@ One line per post, in publish order. Used to pick grid order and avoid repeating
 | 4 | 2026-10-25 09:00 | white | book lessons | 5x | Ogilvy: 5x as many read the headline as the body copy | Confessions of an Advertising Man, David Ogilvy (1963) |
 | 5 | 2026-10-27 09:00 | green | copywriting breakdown | They laughed. | Caples' "They Laughed When I Sat Down at the Piano" headline, U.S. School of Music | John Caples ad for U.S. School of Music (1926) |
 | 6 | 2026-10-29 09:00 | black | classic ads | No. 2 | Avis "We Try Harder" (DDB, 1962): loss to profit within a year | Doyle Dane Bernbach for Avis (1962) |
+| 7 | 2026-10-31 09:00 | black | marketing stories | 79 days | New Coke launched Apr 23 1985, Classic back Jul 11 1985; 8,000 calls a day, 40,000 letters | History.com (A&E Television Networks), New Coke debuts (2024) |
+| 8 | 2026-11-02 09:00 | green | data | 5% | Retaining 5% more customers can lift profits by almost 100% | Reichheld & Sasser, Zero Defections: Quality Comes to Services, Harvard Business Review (1990) |
+| 9 | 2026-11-04 09:00 | white | book lessons | Desire is found, not made. | Schwartz: copy cannot create desire, only channel existing desire | Breakthrough Advertising, Eugene M. Schwartz (1966) |
