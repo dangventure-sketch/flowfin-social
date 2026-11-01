@@ -12,3 +12,6 @@ One line per post, in publish order. Used to pick grid order and avoid repeating
 | 7 | 2026-10-31 09:00 | black | marketing stories | 79 days | New Coke launched Apr 23 1985, Classic back Jul 11 1985; 8,000 calls a day, 40,000 letters | History.com (A&E Television Networks), New Coke debuts (2024) |
 | 8 | 2026-11-02 09:00 | green | data | 5% | Retaining 5% more customers can lift profits by almost 100% | Reichheld & Sasser, Zero Defections: Quality Comes to Services, Harvard Business Review (1990) |
 | 9 | 2026-11-04 09:00 | white | book lessons | Desire is found, not made. | Schwartz: copy cannot create desire, only channel existing desire | Breakthrough Advertising, Eugene M. Schwartz (1966) |
+| 10 | 2026-11-06 09:00 | white | copywriting breakdown | 60 mph | Ogilvy Rolls-Royce "loudest noise ... electric clock" headline; 13 facts in body, line credited to The Motor's technical editor | Ogilvy on Advertising, David Ogilvy (1983); WARC Rolls-Royce factual ads campaign |
+| 11 | 2026-11-08 09:00 | green | data | 94% | Langer copy machine study: 60% no reason, 94% real reason, 93% placebic reason (5 pages) | Langer, Blank & Chanowitz, Journal of Personality and Social Psychology (1978) |
+| 12 | 2026-11-10 09:00 | black | classic ads | 28 yrs | WSJ "Two Young Men" letter by Martin Conroy ran 1975-2003, est. $2B in subscriptions | Martin Conroy, Wikipedia |
